@@ -10,10 +10,54 @@ const WidgetSm = () => {
                     <img src='https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500' alt='widgetimage' className='widgetSmImg' />
                     <div className='widgetSmUser'>
                         <span className='widgetSmUsername'>Omirinde Boluwatife</span>
-                        <span className='widgetSmTitle'>UI/UX Designer</span>
+                        <span className='widgetSmUserTitle'>UI/UX Designer</span>
                     </div>
-                    <button className='widgteSmButton'>
-                        <Visibility />
+                    <button className='widgetSmButton'>
+                        <Visibility className="widgetSmIcon"/>
+                        Display
+                    </button>
+                </li>
+                <li className='widgetSmListItem'>
+                    <img src='https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500' alt='widgetimage' className='widgetSmImg' />
+                    <div className='widgetSmUser'>
+                        <span className='widgetSmUsername'>Omirinde Boluwatife</span>
+                        <span className='widgetSmUserTitle'>UI/UX Designer</span>
+                    </div>
+                    <button className='widgetSmButton'>
+                        <Visibility className="widgetSmIcon"/>
+                        Display
+                    </button>
+                </li>
+                <li className='widgetSmListItem'>
+                    <img src='https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500' alt='widgetimage' className='widgetSmImg' />
+                    <div className='widgetSmUser'>
+                        <span className='widgetSmUsername'>Omirinde Boluwatife</span>
+                        <span className='widgetSmUserTitle'>UI/UX Designer</span>
+                    </div>
+                    <button className='widgetSmButton'>
+                        <Visibility className="widgetSmIcon"/>
+                        Display
+                    </button>
+                </li>
+                <li className='widgetSmListItem'>
+                    <img src='https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500' alt='widgetimage' className='widgetSmImg' />
+                    <div className='widgetSmUser'>
+                        <span className='widgetSmUsername'>Omirinde Boluwatife</span>
+                        <span className='widgetSmUserTitle'>UI/UX Designer</span>
+                    </div>
+                    <button className='widgetSmButton'>
+                        <Visibility className="widgetSmIcon"/>
+                        Display
+                    </button>
+                </li>
+                <li className='widgetSmListItem'>
+                    <img src='https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500' alt='widgetimage' className='widgetSmImg' />
+                    <div className='widgetSmUser'>
+                        <span className='widgetSmUsername'>Omirinde Boluwatife</span>
+                        <span className='widgetSmUserTitle'>UI/UX Designer</span>
+                    </div>
+                    <button className='widgetSmButton'>
+                        <Visibility className="widgetSmIcon"/>
                         Display
                     </button>
                 </li>
@@ -22,4 +66,4 @@ const WidgetSm = () => {
     )
 }
 
-export default WidgetSm
+export default WidgetSm;
