@@ -44,3 +44,96 @@ export const userData = [
         "Active User": 3000,
       },
   ];
+
+  export const userRows = [
+    {
+      id: 1,
+      username: "Onikoyi Toba",
+      avatar:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitoba@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 2,
+      username: "Onikoyi Toba",
+      avatar:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitoba@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 3,
+      username: "Onikoyi Toba",
+      avatar:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitoba@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 4,
+      username: "Onikoyi Toba",
+      avatar:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitoba@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 5,
+      username: "Onikoyi Toba",
+      avatar:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitoba@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 6,
+      username: "Onikoyi Toba",
+      avatar:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitoba@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 7,
+      username: "Onikoyi Toba",
+      avatar:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitoba@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 8,
+      username: "Onikoyi Toba",
+      avatar:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitoba@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 9,
+      username: "Onikoyi Toba",
+      avatar:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitoba@gmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+    {
+      id: 10,
+      username: "Onikoyi Toba",
+      avatar:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitobagmail.com",
+      status: "active",
+      transaction: "$120.00",
+    },
+  ];
