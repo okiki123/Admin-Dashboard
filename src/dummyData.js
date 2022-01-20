@@ -45,6 +45,22 @@ export const userData = [
       },
   ];
 
+  export const productData = [
+    {
+      name: 'Jan',
+      "Active User": 3000,
+    },
+    {
+        name: 'Feb',
+        "Active User": 1000,
+    },
+    {
+        name: 'Mar',
+        "Active User": 4000,
+      }
+  ];
+
+  
   export const userRows = [
     {
       id: 1,
@@ -123,17 +139,110 @@ export const userData = [
       username: "Onikoyi Toba",
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      email: "onikoyitoba@gmail.com",
+      stock: "onikoyitoba@gmail.com",
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
     },
     {
       id: 10,
-      username: "Onikoyi Toba",
-      avatar:
+      name: "Apple Airpods",
+      img:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      email: "onikoyitobagmail.com",
+      stock: 123,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
+    },
+  ];
+
+  export const productRows = [
+    {
+      id: 1,
+      name: "Apple Airpods",
+      img:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 2,
+      name: "Apple Airpods",
+      img:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 3,
+      name: "Apple Airpods",
+      img:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 4,
+      name: "Apple Airpods",
+      img:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 5,
+      name: "Apple Airpods",
+      img:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 6,
+      name: "Onikoyi Toba",
+      img:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 7,
+      name: "Apple Airpods",
+      img:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 8,
+      name: "Apple Airpods",
+      img:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "onikoyitoba@gmail.com",
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 9,
+      name: "Apple Airpods",
+      img:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 10,
+      name: "Apple Airpods",
+      img:
+        "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: "onikoyitobagmail.com",
+      status: "active",
+      price: "$120.00",
     },
   ];
